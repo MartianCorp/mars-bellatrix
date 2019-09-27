@@ -1,0 +1,6 @@
+{
+    "name" : "mars-bellatrix",
+    "packaging" : {
+        "type" : "spec"
+    }
+}
